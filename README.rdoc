@@ -4,10 +4,9 @@ A rails ready setup app for easy go with application development. It includes so
 
 === App includes:
 
-Bootstrap setup
-User management:User regsiter/sig in
-Home page
+* Bootstrap setup(<code> gem bootstrap-sass</code>)
+* User management:User regsiter/sig in(<code>gem devise</code>)
+* Home page
 === Usage
-
-fork/clone itgit clone git@github.com:ravikumarjogu/startrails.git
-start using it..
+* fork/clone itgit clone git@github.com:ravikumarjogu/startrails.git
+* start using it..
