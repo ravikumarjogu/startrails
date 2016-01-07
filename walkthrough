@@ -1,0 +1,11 @@
+
+>rails new rails-user
+
+> Open Gemfile
+  #add gems
+    gem 'therubyracer'
+    gem 'devise'
+> bundle install
+> rails g devise:install
+> rails g devise User
+> bundle exec rake db:migrate
