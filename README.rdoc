@@ -1,28 +1,13 @@
-== README
+== Start Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A rails ready setup app for easy go with application development. It includes some trivial steps which we cant avoided for most web apps.
 
-Things you may want to cover:
+=== App includes:
 
-* Ruby version
+Bootstrap setup
+User management:User regsiter/sig in
+Home page
+=== Usage
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+fork/clone itgit clone git@github.com:ravikumarjogu/startrails.git
+start using it..
